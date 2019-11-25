@@ -1,18 +1,15 @@
-Temple Looter
+Tank game
 
-The player will be controlling a character and move around a maze.
-If the character touches a wall it resets. There are keys that open the wall to progress into a different level. 
-There could be moving walls or shooting turrets.
+Two player will be controlling their own tank. Tank can shoot bullets. There are walls that blocks the bullet and the tank.
+There is three lives for each player. Person loses if all lives are loss.
 
 ## Component Parts
 P5
 
 WASD moving control
 Object collison
-Key that unlocks
-Transition to a new map
-Moving wall
-Shooting turret AI
+Shooting Projectile
+Lives System
 
 ##Reference 
 https://www.youtube.com/watch?v=hacZU523FyM
