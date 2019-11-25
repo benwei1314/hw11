@@ -1,9 +1,0 @@
-First idea, the player will be controlling a character in the middle of the canvas. There are randomly generated. 
-The Walls comes from all side one after another. The game gets progressivly hard.
-If character touches the wall the game will reset to lv 1. 
-
-Second idea, the player will be controlling a character and move around a maze. If the character touches a wall.
-it resets. There are keys that open the wall to progress into a different level. There could be moving walls or shooting turrets.
-
-Third idea, the player is a pushing vechile. You would want to push boxes to fit a certain pattern for the game to win.
-When you win it plays music.
